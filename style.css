@@ -1,0 +1,24 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form-group{
+    display: flex;
+    margin-bottom: 10px;
+    width: 30%;
+    flex-direction:column;
+
+
+}
+.form-group label{
+    margin-bottom: 5px;
+}
+.btn{
+    margin-top: 10px;
+}
+.heading{
+    text-align: center;
+    margin: 20px;
+}
